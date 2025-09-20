@@ -51,3 +51,7 @@ Developed a dynamic emotion embedding system using PyTorch, combining a BERT-bas
 
 - **[Book Recommendation System]()**  
   A simple application that assists users in getting personalized suggestions to search for recommended books by collecting preferences from the user through ratings, analysis of book title, author, and year of publication to output recommendations. It uses collaborative filtering techniques to get books that match users' preferences.
+
+- **[News Classification with N-Grams](https://github.com/d1nah-ai/News-classification-with-n-grams)**  
+  This project explores the application of Natural Language Processing (NLP) techniques for news article classification. The work focuses specifically on using N-gram features combined with the random forest classifier to classify news articles into four categories: World, Sports, Business, and Science/Technology. 
+

@@ -1,7 +1,7 @@
 <img width = 100% src="https://github.com/Yara-Fahad/Yara-Fahad/blob/main/Github%20Banner.png" alt="github banner"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5D3FD3&duration=4000&lines=Hello+World!;+I'm+Yara+Alshedokhi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=550080&duration=4000&lines=Hello+World!;+I'm+Yara+Alshedokhi!;" />
 </h1>
 
 

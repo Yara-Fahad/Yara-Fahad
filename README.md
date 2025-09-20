@@ -49,7 +49,7 @@
 - **[Improving EMOSPEECH with a continuous emotion embedding space](https://github.com/Yara-Fahad/Improving-EMOSPEECH-with-a-continuous-emotion-embedding-space)**  
 Developed a dynamic emotion embedding system using PyTorch, combining a BERT-based text emotion classifier, A Conditional Variational Autoencoder (CVAE) for speech embeddings, and an adapter model that aligns textual and acoustic emotion representations.
 
-- **[Book Recommendation System]()**  
+- **[Book Recommendation System](https://github.com/GhaidaAlalyani/Book-Recommendation-System)**  
   A simple application that assists users in getting personalized suggestions to search for recommended books by collecting preferences from the user through ratings, analysis of book title, author, and year of publication to output recommendations. It uses collaborative filtering techniques to get books that match users' preferences.
 
 - **[News Classification with N-Grams](https://github.com/d1nah-ai/News-classification-with-n-grams)**  

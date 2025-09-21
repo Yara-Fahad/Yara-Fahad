@@ -32,7 +32,7 @@
 </p>
 
 <hr>
-
+<!--
 ## ⚡️ Stats
 
 <br>
@@ -44,6 +44,7 @@
 </div>
 
 <hr>
+-->
 
 ## 📌 Projects
 - **[Improving EMOSPEECH with a continuous emotion embedding space](https://github.com/Yara-Fahad/Improving-EMOSPEECH-with-a-continuous-emotion-embedding-space)**  

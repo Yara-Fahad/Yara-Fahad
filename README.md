@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,html,css,git,postman,figma,py" />
+  <img src="https://skillicons.dev/icons?i=java,react,html,css,git,py" />
   <img src="https://skillicons.dev/icons?i=vscode,pytorch,docker,fastapi,sklearn,tensorflow" />
 </p>
 
